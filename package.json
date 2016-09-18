@@ -9,6 +9,8 @@
     "imdb-api": "^2.0.0",
     "meteor-node-stubs": "^0.2.3",
     "react": "^15.3.1",
-    "react-dom": "^15.3.1"
+    "react-dom": "^15.3.1",
+    "react-materialize" : "^0.16.4",
+    "react-router": "^2.8.1"
   }
 }
