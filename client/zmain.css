@@ -1,0 +1,62 @@
+/* CSS declarations go here */
+
+.card .card-image {
+    position: relative;
+    height: 200px;
+}
+header{
+  font-size: 32px;
+      text-align: center;
+      margin: 50px 0;
+}
+
+i.tiny {
+    font-size: 1rem;
+    position: relative;
+    top: 3px;
+    margin-left: 10px;
+}
+
+.chip{
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+
+.chip-wrapper{
+  margin-top: 15px;
+}
+
+a.modal-action-btn {
+    float: right;
+}
+
+.card .card-title{
+  font-size: 20px
+}
+
+.card .card-content{
+  padding: 10px 20px;
+}
+
+div.genre-chip {
+    margin:10px;
+    cursor: pointer;
+}
+
+.modal-tabs{
+  margin-bottom: 15px !important;
+}
+
+
+.card .card-title{
+  font-size: 20px !important;
+}
+
+.card .card-content{
+  padding: 10px 20px !important;
+}
+
+header{
+  margin: 20px 0 !important
+}
